@@ -1,0 +1,13 @@
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\bin\Debug\B13_Ex02.exe
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\bin\Debug\B13_Ex02.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\obj\x86\Debug\B13_Ex02.csprojResolveAssemblyReference.cache
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\obj\x86\Debug\B13_Ex02.exe
+C:\Users\Oגקג\Documents\Visual Studio 2010\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\obj\x86\Debug\B13_Ex02.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\bin\Debug\B13_Ex02.exe.config
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\obj\x86\Debug\B13_Ex02.exe
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\obj\x86\Debug\B13_Ex02.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\bin\Debug\B13_Ex02.exe
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\bin\Debug\B13_Ex02.pdb
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Oגקג\Documents\Visual Studio 2013\Projects\B13 Ex02 Oded 300021524 Hila 305747057\B13_Ex02\obj\x86\Debug\B13_Ex02.csprojResolveAssemblyReference.cache
